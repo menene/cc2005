@@ -1,6 +1,6 @@
-# 📚 Presentaciones – cc2008: Programación Orientada a Objetos
+# 📚 Presentaciones – cc2005: Algoritmos y Programación Básica
 
-Este repositorio contiene todas las presentaciones del curso **cc2008 – Programación Orientada a Objetos**, impartido durante el **Semestre 02, 2025**.
+Este repositorio contiene todas las presentaciones del curso **cc2005 – Algoritmos y Programación Básica**, impartido durante el **Semestre 02, 2025**.
 
 Las presentaciones están organizadas por número y tema, y se encuentran en formato Reveal.js, PDF y Markdown para facilitar el acceso desde cualquier plataforma.
 
@@ -8,10 +8,9 @@ Las presentaciones están organizadas por número y tema, y se encuentran en for
 
 ## 🖼️ Presentaciones disponibles
 
-| #   | Título                    | HTML                        | PDF                         | MD                          | Imagen                     |
-|-----|---------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------------|
-| 01  | Introducción a POO        | ✅ [Ver](./presentations/01-intro-poo.html) | ✅ [Descargar](./presentations/01-intro-poo.pdf) | ✅ [Markdown](./presentations/01-intro-poo.md) | 🖼️ [Imagen](./assets/01-intro-poo.png) |
-| 02  | Clases y Objetos          | ✅ [Ver](./presentations/02-clases-objetos.html) | ✅ [Descargar](./presentations/02-clases-objetos.pdf) | ✅ [Markdown](./presentations/02-clases-objetos.md) | 🖼️ [Imagen](./assets/02-clases-objetos.png) |
+| #   | Título                        | HTML                          | PDF                           | MD                            | Imagen                       |
+|-----|-------------------------------|-------------------------------|-------------------------------|-------------------------------|------------------------------|
+| 01  | Introducción al Curso         | ✅ [Ver](./presentations/01-intro-curso.html) | ✅ [Descargar](./presentations/01-intro-curso.pdf) | ✅ [Markdown](./presentations/01-intro-curso.md) | 🖼️ [Imagen](./assets/01-intro-curso.png) |
 
 ---
 
