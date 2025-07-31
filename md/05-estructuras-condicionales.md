@@ -215,3 +215,68 @@ if edad >= 18 and edad <= 25:
 else:
     print("Fuera del rango")
 ```
+
+
+
+## Condicionales Compuestas
+
+
+A veces, necesitamos evaluar múltiples condiciones de forma secuencial. En estos casos, Python ofrece la palabra clave `elif` (abreviatura de "else if"). 
+
+
+Esto permite verificar varias condiciones en orden, ejecutando solo el bloque del primer `if` o `elif` que sea verdadero.
+
+
+### Sintaxis
+
+```python[]
+if condicion1:
+    # bloque si se cumple la condicion1
+elif condicion2:
+    # bloque si se cumple la condicion2
+elif condicion3:
+    # bloque si se cumple la condicion3
+else:
+    # bloque si no se cumple ninguna
+```
+
+
+### Ejemplo 1
+
+```python[]
+edad = 70
+
+if edad < 18:
+    print("Menor de edad")
+elif edad < 65:
+    print("Adulto")
+else:
+    print("Adulto mayor")
+```
+
+
+### Ejemplo 2
+
+```python[]
+nota = 85
+
+if nota >= 90:
+    print("Excelente")
+elif nota >= 75:
+    print("Muy bien")
+elif nota >= 61:
+    print("Bien")
+else:
+    print("Reprobado")
+```
+
+
+### Recomendaciones
+
+Evita usar muchos `elif` si puedes usar estructuras más complejas.
+
+
+Las condiciones deben ser mutuamente excluyentes y estén en el orden correcto.
+
+
+El `else` es opcional, pero útil como caso por defecto.
